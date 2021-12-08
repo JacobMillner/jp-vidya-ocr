@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 easyocr = "*"
 pysimplegui = "*"
+pillow = "*"
+numpy = "*"
+pyperclip = "*"
 
 [dev-packages]
 
